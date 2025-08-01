@@ -1,20 +1,20 @@
 body{
-color: rgb(82, 82, 82);
-background: rgb(245, 244, 244);
+color: rgb(255, 255, 255);
+background: rgb(39, 63, 129);
  margin: 0px;
  
   font-family: "Libre Baskerville", serif;
 }
 
 header {
-border-bottom: solid 2px rgb(12, 32, 58);
+border-bottom: solid 2px rgb(111, 128, 151);
 padding: 20px;
 font-size: 32px;
-color: rgb(192, 197, 204);
+color: rgb(111, 128, 151);
 }
 
 section {
-background: rgb(11, 5, 58);
+background: rgb(10, 10, 10);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
