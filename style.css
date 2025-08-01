@@ -1,5 +1,5 @@
 body{
-color: rgb(241, 17, 17);
+color: rgb(82, 82, 82);
 background: rgb(245, 244, 244);
  margin: 0px;
  
@@ -7,14 +7,14 @@ background: rgb(245, 244, 244);
 }
 
 header {
-border-bottom: solid 2px rgb(42, 122, 228);
+border-bottom: solid 2px rgb(12, 32, 58);
 padding: 20px;
 font-size: 32px;
-color: rgb(42, 122, 228);
+color: rgb(192, 197, 204);
 }
 
 section {
-background: rgb(184,156,213);
+background: rgb(11, 5, 58);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
